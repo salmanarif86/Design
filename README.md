@@ -1,43 +1,39 @@
-The Opportunity:
+Over the past two quarters, ServiceNow has implemented a series of cost-optimization strategies aimed at preserving operating leverage amid slower enterprise IT spending:
 
-We're looking for a Senior Product Manager to lead the vision, strategy, and execution of our Trade Analytics platform within Capital Markets. You'll be at the center of one of the firm’s most high-leverage product bets—reimagining how institutional clients interact with analytics, data, and insights across asset classes.
+Headcount Rationalization:
 
-This role isn’t about incremental feature delivery. It’s about creating leverage at scale—by designing digital-first workflows, simplifying complex client journeys, and unlocking new channels for engagement and growth. You’ll partner with Engineering, Quants, Traders, Compliance, and Sales to define how our analytics ecosystem evolves over time.
+Reduced hiring across non-core functions
 
-If you thrive on solving ambiguous, high-stakes problems in enterprise finance—and want to shape the future of digital capital markets—this is the role for you.
+Streamlined layers in GTM and customer success teams
 
-What You’ll Own:
+Estimated $48M in annualized savings
 
-End-to-end product ownership of the Trade Analytics platform—from zero-to-one bets to scaling mature products across digital channels.
+Cloud Infrastructure Optimization:
 
-Set product vision and multi-quarter roadmaps, deeply aligned with business outcomes (e.g. revenue growth, channel expansion, client engagement).
+Shifted to multi-cloud orchestration to avoid vendor lock-in
 
-Partner with internal teams to build intuitive, self-serve analytics tools that reduce complexity and drive adoption.
+Re-negotiated long-term commitments with hyperscalers
 
-Define the measurement framework—track product success via customer behavior, usage, and commercial impact.
+Realized ~150 bps improvement in gross margin QoQ
 
-Lead strategy for digitization of client experience in capital markets—simplifying trade workflows, onboarding, and insights delivery.
+Vendor Consolidation & Real Estate Strategy:
 
-Shape the product’s go-to-market and customer success motions with Sales and Marketing.
+Reduced real estate footprint by 22%
 
-What You Bring:
+Centralized procurement with fewer SaaS and consulting vendors
 
-10+ years in product management or adjacent roles, with at least 5 in fintech, capital markets, or enterprise data products.
+Result:
+Operating margin expanded from 23.9% to 26.4% YoY, with the CFO citing “disciplined execution” and “digital-first selling efficiency” as drivers.
 
-Proven track record of building and scaling data platforms or analytics products used by demanding professional clients.
+💡 Follow-up Questions (Aha Moments)
+“Which of these cost initiatives align with trends we’ve seen across our other AI infra clients?”
+→ Reveals if the CFO is copying peer behavior or leading the pack.
 
-Systems thinker who can navigate across technical teams (Engineering, Quants), commercial leaders (Sales, Traders), and compliance.
+“How might these cuts impact ServiceNow’s ability to execute on their AI roadmap this year?”
+→ Exposes potential downside risk masked by surface-level margin gains.
 
-Experience building digital-first B2B workflows across asset classes (e.g., equities, FX, fixed income).
+“Which business units were most impacted by these reductions, and have we seen shifts in product velocity or sales efficiency there?”
+→ Goes from finance-level insight to execution-layer consequence — unexpected, powerful.
 
-Strong decision-making under ambiguity; equally comfortable refining a prototype or pitching to leadership.
 
-High agency, low ego. You own outcomes, not just roadmaps.
-
-Why Join Us:
-
-You’ll work on a high-visibility platform with direct impact on revenue and client experience.
-
-Access to deep domain experts across trading, data science, and engineering.
-
-Competitive compensation, flexible work, and a mandate to innovate within a global bank.
+"What concerns has Jane Doe (CFO) raised in past meetings that might resurface in Friday’s call, and how can we proactively address them using recent margin data?
