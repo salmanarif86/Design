@@ -1,70 +1,59 @@
-Absolutely — here’s a restructured layout that aligns with how investment bankers think and prepare, especially when heading into a client call with a company like ServiceNow. The current structure is very data-source-centric (CRM, SEC, Market Data), which fragments the story.
+To assess **Joseph Wong**’s suitability for a **Project Manager role reporting to you (Product Manager)** — especially in a fintech or AI-driven context — you want to validate:
 
-Let’s reframe it around Jobs-To-Be-Done for Bankers, using 5 high-yield sections:
+1. **Execution ownership**: Can he drive complex projects with many stakeholders?
+2. **Communication skills**: Can he shield the product org from noise and keep everyone informed?
+3. **Risk & dependency management**: Can he unblock teams before issues become crises?
+4. **Technical fluency**: Can he work effectively with engineers/data teams without getting lost?
+5. **Vendor/client handling**: Does he have experience interfacing with enterprise clients or external platforms?
+6. **Adaptability**: Can he work in a high-velocity product development environment?
 
-⸻
+---
 
-Restructured Layout for Investment Banker Prep
+### **Interview Questions (Structured by Theme)**
 
-1. Executive Snapshot (High-Level Context)
+#### 1. **Planning & Execution**
 
-Goal: Give the banker a 30-second CEO/CFO-ready view.
-Cards to include:
-	•	Company Overview (condensed to 3 bullets)
-	•	Latest Earnings Summary (Q4 miss + EPS/Rev delta)
-	•	Market Data: Stock trend + Key investor signals
-	•	CRM Highlights (e.g., current relationship tier, banker owner)
+* *Tell me about a project where the timeline was slipping. How did you bring it back on track?*
+* *How do you typically translate a product roadmap into a delivery plan?*
+* *How do you track progress on projects and keep teams aligned on deliverables?*
 
-2. Strategic Signals
+#### 2. **Cross-functional Coordination**
 
-Goal: Help banker spot value creation levers or pain points.
-Cards to include:
-	•	Equity Research Narrative Drift (what analysts are missing)
-	•	CRM Insights (e.g., whitespace, churn risk, wallet share)
-	•	Analyst Divergence (e.g., upside vs. bear case logic)
-	•	AI and GTM trends (from product/research briefs)
+* *Describe a time when you had to manage conflicting priorities across engineering, QA, and product.*
+* *How do you run stand-ups or sprint planning when teams are not fully aligned?*
+* *Have you ever had to coordinate between in-house and vendor teams? How did you manage the handoffs?*
 
-Optional Toggle: “Turn this into a talk track” with banker-friendly 1-liners
+#### 3. **Risk & Issue Management**
 
-3. Deal Exposure + Past Interactions
+* *Can you walk me through how you identify and manage project risks?*
+* *Describe a time you identified a critical dependency that could derail delivery. What did you do?*
 
-Goal: Anchor the banker in relationship capital and past motions.
-Cards to include:
-	•	RBC Relationship Overview (visual map of stakeholders)
-	•	Recent Conversations (with internal takeaways flagged)
-	•	Past Transactions (bookrunner history, dollar amount, role)
-	•	Key Attachments (decks, NDAs, etc. for deal continuity)
+#### 4. **Stakeholder Communication**
 
-4. Advisory Opportunities
+* *How do you report progress to different stakeholders (e.g., execs vs. engineers)?*
+* *Tell me about a time you had to say “no” to a senior stakeholder due to project constraints.*
 
-Goal: Cue the banker on where they can create commercial or capital value.
-Cards to include:
-	•	M&A White Space (peers with active deals or tech tuck-ins)
-	•	Strategic Gaps (e.g., vertical expansion, GTM enablement)
-	•	Capital Markets Triggers (valuation gaps, activist pressure)
+#### 5. **Technical Acumen**
 
-Optional Button: “Generate tailored ideas” → dynamically pulls 2–3 opportunities to raise in meeting
+* *How hands-on are you with understanding technical implementation details?*
+* *Have you worked closely with data science, AI, or engineering teams? How do you stay aligned with their workflows?*
 
-5. Red Flags & Compliance
+#### 6. **Tooling & Process**
 
-Goal: Ensure the banker avoids risk or regulatory missteps.
-Cards to include:
-	•	Insider activity / filing alerts
-	•	NDA/confidentiality notes
-	•	Compliance guardrails if AI or cross-border topics emerge
+* *What tooling do you use for project management (Jira, Asana, Confluence, etc.)?*
+* *How do you handle retrospectives and incorporate feedback into process improvements?*
 
-⸻
+#### 7. **Culture & Fit**
 
-Sidebar / Fast Nav Changes
+* *This role reports into a product org. How do you see the boundary between product and project?*
+* *How do you handle ambiguity in fast-moving product teams?*
 
-Replace “CRM Insights,” “SEC Filings,” etc. with:
-	•	[Overview]
-	•	[Strategic Signals]
-	•	[Our Relationship]
-	•	[Opportunities to Add Value]
-	•	[Guardrails]
+---
 
-⸻
+### **Bonus Role-Specific Prompt (Simulated Exercise)**
 
-Would you like a wireframe of this reorganized layout, or a clickable prototype outline next?
+> *Let’s say we have a GenAI feature that’s going live in 6 weeks. There’s backend work, UI dependencies, and a compliance review. Our designer is behind schedule, and legal is unresponsive. How would you take control of this situation?*
 
+---
+
+Would you like a scorecard template or summary format to evaluate his answers quickly post-interview?
