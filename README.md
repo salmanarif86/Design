@@ -1,13 +1,1 @@
-Tile 1: Customer Concentration & Retention
-Top 10 customers = 35% of revenue
-High exposure to Financials (27%) and Healthcare (18%)
-Net retention: 116%
-
-Q4 delays tied to client consolidation — telco + Big 4 churn flagged
-
-Tile 2: Buy-Side Heat Map
-Investor focus: GenAI monetization & vertical GTM payoff
-Stake changes: +2% from BlueSpruce, Lorical
-Activist signal: Pear Tree pushing for segment-level AI returns
-
-Sentiment split: 66% growth / 30% value / 10% ESG
+ recommend considering Granola AI as a note-taking tool for our investment banking team. It allows bankers to jot down key points during client meetings, and then enhances these notes post-meeting by adding context and organizing them into structured summaries. Granola operates discreetly without joining meetings as a bot, ensuring a seamless experience. Its integration with calendars and customizable templates further streamline the note-taking process. This tool could help our team stay engaged during meetings while ensuring accurate and organized documentation.
