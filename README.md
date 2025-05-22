@@ -71,3 +71,50 @@ Conclusion: A Fluid, Contextual, Intelligent Prep Experience
 In this reimagined user experience, preparing for a client meeting transforms from a laborious information-gathering exercise into a streamlined, insightful briefing process. By integrating GenAI-driven summarization, proactive analytics, and workflow tools, the system delivers clarity (through succinct summaries), context (by unifying all relevant intel), and actionability (via next-step suggestions and easy task execution). This design mirrors the way senior bankers think – focusing on the big picture and the next decision – while ensuring no detail slips through the cracks. It’s a meeting prep dashboard that thinks and works as hard as the banker, ultimately enabling more informed, strategic, and impactful client engagements.
 
 Sources: The concept draws on emerging best practices in fintech and AI. For example, Microsoft’s Financial Meeting Prep app combines internal/external data and uses an LLM to extract key highlights and news summaries for easy comprehension ￼, underscoring the power of AI in condensing information. Industry analysts note that GenAI can act as a “co-pilot” for relationship managers by providing real-time insights and next-best-action suggestions during client interactions ￼. By harnessing these capabilities, our redesigned experience ensures bankers get the right insights at the right time – delivering a competitive edge in client advisory.
+Absolutely. Based on everything we’ve discussed and the screenshot you shared, here’s how you can refine the first-touch experience when a senior banker opens the meeting prep view:
+
+⸻
+
+Goal of First-Touch Output
+
+The first screen should act like an executive chief of staff:
+	•	orienting the user on what’s changed,
+	•	distilling what matters most now,
+	•	and priming them with strategic talking points they can walk into the room with.
+
+This should not feel like a data dump or a recap of widgets—it should feel like someone has already read everything and is giving them the distilled “So What?”.
+
+⸻
+
+Refined Structure for the Chat Summary Output (Top Right Panel)
+
+Welcome Back – Here’s What You Need to Know
+
+Since your last meeting with ServiceNow (March 5, 2025):
+	•	New development: ServiceNow announced a strategic extension of its AI platform to mid-market clients (April 16).
+	•	Earnings update: Q1 revenue grew 20% YoY to $3.005B, driven by enterprise subscription expansion.
+	•	Relationship insight: Gina Mastanouco (CFO) expressed interest in streamlining post-Moveworks integration—possible opening for M&A follow-up.
+
+Today’s Talking Points
+	1.	AI Monetization Strategy: Ask how the mid-market AI rollout is tracking—are there integration gaps or GTM risks?
+	2.	Retention Pressure: Q1 shows 20% churn in low-revenue segments—use this to segue into possible partnership or consolidation ideas.
+	3.	Capital Deployment: With $10.3B in subscription backlog, discuss if there’s appetite for targeted acquisition or R&D expansion.
+
+⸻
+
+Design Principles
+	•	Brevity over completeness: 3–4 sentences max in the “What Changed” section; 3 sharp bullets for talking points.
+	•	Context-aware: Pulls last meeting date from CRM, compares it to earnings/news/events.
+	•	Natural language, not structured data: No widget-y labels like “SEC Filings” or “CRM Log.” Speak in banker-readable English.
+	•	Visual clarity: Use bold headers (e.g., Earnings update) and subtle icons (e.g., alert, dollar sign, graph) for skimmability.
+
+⸻
+
+Optional Add-ons (Future Iteration Ideas)
+	•	“Add to Brief” Suggestions: Each bullet has a [+] icon to add to the PDF/email briefing.
+	•	Inline Verbal Preview: “Read this out loud to me” audio button for car/train prep.
+	•	Tailor to Meeting Type: If it’s a CEO vs CFO meeting, slightly shift the talking point emphasis (e.g., growth vs margin).
+
+⸻
+
+Would you like a polished mock text output based on the real ServiceNow data from your view? I can draft that exactly as it should appear.
