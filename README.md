@@ -1,13 +1,15 @@
 Hi team,
 
-Sharing an article that really clarified something I’ve been sensing but hadn’t articulated until now.
+Thanks again for pulling together the discussion guide for our upcoming interview with RBC bankers. I’ve had a chance to review the list, and it’s great to see how much ground we’re aiming to cover.
 
-Pete Koomen (co-founder of Optimizely) draws a sharp analogy: we’re building “AI horseless carriages” — interfaces that bolt GenAI onto old workflows, instead of reimagining what AI-native experiences should look like.
+Given that we’ll only have around one hour with each participant, I thought it might be helpful for us to regroup and reflect on a few things together before we go in:
 
-He uses Gmail's Gemini as a cautionary tale — not because it lacks functionality, but because it reinforces patterns that don't take full advantage of what AI can do. The piece doesn’t just critique; it reframes how we might think about control, customization, and the deeper job AI is actually good at: transformation over generation.
+Prioritization: With 45 questions across multiple themes, can we quickly identify the 8–10 highest priority questions we want to be sure to cover in the time available?
 
-It’s a short read, but I think it will sharpen how we approach our own product design conversations.
-👉 AI Horseless Carriages
+Clarity & Framing: A few of the questions could benefit from tighter framing so that we can avoid hypotheticals or overly open-ended prompts and instead anchor more on real examples, behaviors, and past decisions.
+  Example: Question 45 – “What do you feel will be the most valuable area to leverage GenAI in your client services work?”
+This could be reframed to something more behavioral and grounded, e.g., “Have you ever tried using GenAI in your client services workflow? What happened?”
 
-Best,
-[Your Name]
+AI-Specific Prompts: For the GenAI-related section, perhaps we can flag what we most want to learn (e.g., trust, usability, perceived value), so we don’t over-index on tooling questions without context.
+Example: Question 35 – “Would you use a tool that helps generate a first draft of a deck?”
+Before asking this, should we first understand whether they trust automated outputs in general (as in Q42)? That may help us frame this better and avoid abstract speculation.
