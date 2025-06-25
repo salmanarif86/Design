@@ -79,3 +79,19 @@ Coordination	Is time lost updating systems or logging notes?	Summarize, structur
 Let me know if you’d like this turned into a simple workshop outline or visual slide deck — it could help you seed these ideas across the desk.
 
 Would you like me to draft that?
+
+Scour the internet regularly for news relevant to our client base
+
+“…then surface to salesperson and auto-draft emails to clients (e.g., acquisitions, fundraises)”
+
+	•	GenAI fit: Very strong
+	•	Why impactful: Combines web-scraping + LLM summarization + templated email drafting. Frees up a lot of mental bandwidth and creates scalable outbound value.
+	•	Bonus: Can prioritize results based on client portfolio, holdings, or preferences.
+
+3. Run automated checks on existing clients
+
+“…which ones are overlevered, underhedged, or not having conversations”
+
+	•	GenAI fit: Moderate to strong
+	•	Why impactful: Great for generating natural-language summaries of analytics results (e.g., “Client X has no FX hedge on 90-day forward exposures”). You can also pair this with a rules engine for initial detection.
+
