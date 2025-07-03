@@ -1,41 +1,22 @@
-🔄 Delta: Interview-Informed Adjustments to Davis E. Persona
-🧾 About
-Additions:
 
-Davis plays a hybrid role that spans business development, financial modeling, and client presentations — this came through more clearly in the transcript.
+🧠 Strategic Thinkers
+Nick Garmulewicz — Builds outlines with context and templates, seeks early MD buy-in, values clarity of objectives and timelines. High cognitive scaffolding and upstream controlNick Garmulewicz.
 
-He's the owner and long-time maintainer of the Access-based deal database (not just a user).
+Will R. — Post-MBA hire who left for a hedge fund-backed PE role and returned to RBC; seeks clarity and stability; values long-term vision (e.g., “digital investment bank of the future”)Will R.
 
-More involved than previously implied in storyboarding and conceptual narrative design, not just QA.
+🛠️ Execution-Oriented Operators
+Elana Bittker — Efficient, linear, and highly process-driven. Operates in a well-oiled, collaborative subvertical. Thrives on known outlines, clear expectations, and repeatability. Adapts well to last-minute crunchesElana Bittker.
 
-🧠 Attitudes & Behaviors
-✅ Expanded or Refined Themes:
-Narrative-First, But Iterative: Stronger emphasis on live, collaborative idea development vs. static templates. Whiteboarding is central to how ideas are born.
+Jason T. — New to the role but deeply involved in pitch book creation, highly collaborative with analysts and associates, focused on execution, particularly around AI toolingJason T.
 
-Strong belief in physical artifacts: He prints decks, lays them out, and rearranges them like puzzle pieces — a nuance that wasn't fully captured before.
+Jael Ortiz — Plays the bridge between upstream strategy and downstream execution. Strong program manager mentality, deeply aware of team structure, execution ownership, and MD expectationsJael Ortiz.
 
-AI = Speed, Not Substance: Will accept AI for idea scaffolding, QA, and “sharpy-to-slide” conversion — but emphasizes the VP’s role as narrative translator can’t be fully outsourced.
+🤝 Collaborative Navigators
+Mikayla — Balances collaboration with speed. Comfortable working in fluid handoffs with MDs and other team members. Not overly rigid; adapts across projects (from precedent books to client materials). Not perfectionist, more outcome-driven .
 
-Teaching Culture: Highlights intern involvement in live strategy sessions — points to a mentorship orientation, not captured before.
+Jason Neumann — Functions well in high-trust environments where relationships drive workflow. Values shared norms and good documentation. Emphasizes coordination, not control .
 
-❌ Frictions & Unmet Needs
-🔍 New or Deepened Pain Points:
-Manual idea-to-slide conversion from whiteboard sessions is a huge drag (“Sharpy → PowerPoint” takes hours).
+🧭 Autonomous Analysts
+Clayton B. — Described as more “solo,” prefers doing deep dives and owning the keyboard himself. Uses GenAI tools tactically but is skeptical about blind reliance. Strong individual contributor energy, cautious with quality assuranceClayton B.
 
-Final QA pain is worse than expected — especially for 80+ page books. Bracket errors, comp mismatches, and regional slip-ups are common.
-
-CRM integration gap is more risky than previously indicated. There's real concern about Access being deprecated and data loss.
-
-Storyline drift risk during production is high. Needs better alignment between early intent and final deck version.
-
-✅ Opportunities
-🚀 Enhanced Opportunities Identified:
-AI-generated multiple draft page layouts (not just one) to give MDs choice and speed alignment.
-
-Aiden Note-Taker → Outline Generator: Capturing whiteboard/meeting notes and turning them into structured pitchbook outlines.
-
-CRM-AI Fusion: Auto-tag deals, extract relevant comps, and recall past pitch materials tied to a client.
-
-Live QA Bot for final deck review — scanning for placeholder text, misalignments, and formatting errors before print.
-
-Personalized idea prompts based on past deal patterns or client history (he hinted at wanting something “dynamic and contextual”).
+Davis English — Client-first thinker, methodical but autonomous. Has his own system for storing slides and outputs. Likes clarity but doesn't need micromanagement .
