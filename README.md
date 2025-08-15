@@ -1,22 +1,60 @@
+Story: Talking Points in Outlook (Desktop)
+As a
+coverage banker preparing for client meetings
+I want to
+see auto-generated “Talking Points” based on entitled research, news, and internal notes, with options to tailor for specific personas (e.g., CEO, CFO) and add to my client brief or meeting script
+So that
+I can quickly prepare focused, role-relevant talking material without manually combing through multiple content sources.
 
-🧠 Strategic Thinkers
-Nick Garmulewicz — Builds outlines with context and templates, seeks early MD buy-in, values clarity of objectives and timelines. High cognitive scaffolding and upstream controlNick Garmulewicz.
+Dependencies
+Outlook Desktop add-in framework for panel rendering and actions
+Client resolver/CRM to identify meeting client and attendee roles
+Retrieval layer for entitled research, news, and notes
+Generation service for point creation and persona tailoring
+Entitlement service to filter non-accessible content
+Brief/Script APIs to append selected points
 
-Will R. — Post-MBA hire who left for a hedge fund-backed PE role and returned to RBC; seeks clarity and stability; values long-term vision (e.g., “digital investment bank of the future”)Will R.
+Acceptance Criteria
+Section loads automatically in the meeting context with correct client detected
+Points are tailored based on retrieved content and selected persona
+Users can add any point to Client Brief or Script
+Citations are displayed and preserved when points are tailored or regenerated
+Meets agreed performance targets
 
-🛠️ Execution-Oriented Operators
-Elana Bittker — Efficient, linear, and highly process-driven. Operates in a well-oiled, collaborative subvertical. Thrives on known outlines, clear expectations, and repeatability. Adapts well to last-minute crunchesElana Bittker.
+Business Requirements
+Available in Outlook panel UI
+Support tailoring to predefined personas (CEO, CFO, CIO, etc.)
+Handle 5–7 talking points without truncation
+Include citations linked to entitled content
 
-Jason T. — New to the role but deeply involved in pitch book creation, highly collaborative with analysts and associates, focused on execution, particularly around AI toolingJason T.
+Performance Requirements
+Visible header ≤ 1.5 s (p95)
+First 3 points ≤ 3 s after expand (p95)
+Persona tailoring/regeneration ≤ 2.5 s (p95)
+Add-to actions complete ≤ 3 s
 
-Jael Ortiz — Plays the bridge between upstream strategy and downstream execution. Strong program manager mentality, deeply aware of team structure, execution ownership, and MD expectationsJael Ortiz.
+Error Handling
+Empty state with refresh/manage sources if no content
+Retain last list if generation fails; allow retry
+Note if points hidden due to entitlements
+Preserve selections if add-to action fails
 
-🤝 Collaborative Navigators
-Mikayla — Balances collaboration with speed. Comfortable working in fluid handoffs with MDs and other team members. Not overly rigid; adapts across projects (from precedent books to client materials). Not perfectionist, more outcome-driven .
+Non-Functional Requirements
+Strict entitlement enforcement; no caching of restricted content
+Audit logs for key actions
+p99 failure rate < 0.5%
+Accessibility via ARIA roles
+UI strings externalized for localization
 
-Jason Neumann — Functions well in high-trust environments where relationships drive workflow. Values shared norms and good documentation. Emphasizes coordination, not control .
+Definition of Done
+Talking Points render with persona tailoring and citations
+Add-to Brief/Script works reliably
+Regeneration preserves citations and scroll
+Meets latency and accuracy requirements
+Telemetry visible in dashboards
 
-🧭 Autonomous Analysts
-Clayton B. — Described as more “solo,” prefers doing deep dives and owning the keyboard himself. Uses GenAI tools tactically but is skeptical about blind reliance. Strong individual contributor energy, cautious with quality assuranceClayton B.
-
-Davis English — Client-first thinker, methodical but autonomous. Has his own system for storing slides and outputs. Likes clarity but doesn't need micromanagement .
+Quality & Telemetry
+Core UI, retrieval, and generation flows verified via automated tests
+End-to-end test for persona tailoring and add-to actions
+Telemetry tracks usage, performance, and error events with clear KPIs
+Dashboard reports on adoption, latency trends, and failure rates
